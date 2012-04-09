@@ -1,6 +1,6 @@
 mkvtomp4
 ========
-Gavin Beatty <gavinbeatty@gmail.com>
+Forked from Gavin Beatty <gavinbeatty@gmail.com>
 
 mkvtomp4: Uses mpeg4ip or GPAC's MP4Box, mkvtoolnix and ffmpeg to convert
 troublesome mkv files to mp4.
